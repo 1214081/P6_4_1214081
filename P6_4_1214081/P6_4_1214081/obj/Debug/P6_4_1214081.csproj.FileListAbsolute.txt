@@ -1,0 +1,11 @@
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\bin\Debug\P6_4_1214081.exe.config
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\bin\Debug\P6_4_1214081.exe
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\bin\Debug\P6_4_1214081.pdb
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.csproj.AssemblyReference.cache
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.csproj.SuggestedBindingRedirects.cache
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.Form1.resources
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.Properties.Resources.resources
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.csproj.GenerateResource.cache
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.csproj.CoreCompileInputs.cache
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.exe
+C:\Users\Befous\source\repos\P6_4_1214081\P6_4_1214081\obj\Debug\P6_4_1214081.pdb
